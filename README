@@ -1,0 +1,2 @@
+This is an electronic book format (Kindle and epub) of mnmlist.com blog.
+To add new post, remove unnecessary part of post (see previous posts in book folder), add it to HTML section in Makefile file and 'make all' to regenerate book formats.
