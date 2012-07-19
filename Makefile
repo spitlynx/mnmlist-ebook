@@ -112,6 +112,11 @@ HTML = book/about.html \
 	book/scattered.html \
 	book/finding.html \
 	book/devices.html \
+	book/walk-away.html \
+	book/ok.html \
+	book/happy.html \
+	book/everyone-else.html \
+	book/unknown.html \
 	book/links.html \
 	book/quotes.html
 
