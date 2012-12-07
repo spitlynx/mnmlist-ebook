@@ -117,6 +117,7 @@ HTML = book/about.html \
 	book/happy.html \
 	book/everyone-else.html \
 	book/unknown.html \
+        book/fantasies.html \
 	book/links.html \
 	book/quotes.html
 
